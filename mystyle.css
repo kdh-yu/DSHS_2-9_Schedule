@@ -1,0 +1,27 @@
+@font-face {
+    font-family: OSG;
+    src: url("OSG.ttf")
+}
+
+body{
+    font-family: OSG;
+    background-image: url("./bg.jpg");
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+h1{
+    color:black;
+}
+h2{
+    color:black;
+    font-size: 35px;
+}
+h3{
+    color:black;
+    font-size: 45px;
+}
